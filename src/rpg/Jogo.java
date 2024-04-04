@@ -14,6 +14,7 @@ public class Jogo {
 			System.out.print("Digite o nome do oponente: ");
 			String nomeOponente = scanner.nextLine();
 
+			//vidajogador
 			int vidaJogador = 100;
 			int vidaOponente = 100;
 
