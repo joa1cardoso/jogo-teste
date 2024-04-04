@@ -15,6 +15,7 @@ public class Jogo {
 			String nomeOponente = scanner.nextLine();
 
 			//vidajogador
+			//vida oponente
 			int vidaJogador = 100;
 			int vidaOponente = 100;
 
